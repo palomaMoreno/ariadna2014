@@ -1,4 +1,4 @@
-ariadna2014
+Ariadna2014
 ===========
 
 proyecto nuevo para ariadna
